@@ -1,4 +1,4 @@
-package app.crisis.CrisisApp;
+package app.crisis.CrisisApp.ManagementLogin;
 
 public class User {
     private String firstName;

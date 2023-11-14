@@ -1,4 +1,4 @@
-package app.crisis.CrisisApp;
+package app.crisis.CrisisApp.ManagementLogin;
 
 public class LoginAccount {
     private String nickName;

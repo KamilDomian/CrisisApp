@@ -1,4 +1,4 @@
-package app.crisis.CrisisApp;
+package app.crisis.CrisisApp.FinancialManagement;
 
 public class FinancialExpenses {
     private int credits;
